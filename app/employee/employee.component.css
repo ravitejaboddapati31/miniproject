@@ -1,0 +1,24 @@
+.btn-danger {
+  width: 100%;
+
+}
+
+.btn-primary {
+
+  width: 100%;
+
+
+}
+
+.btn-success {
+  width: 100%
+}
+
+.one {
+  background-color: black;
+  color: white;
+}
+.two{
+  background-color: red;
+  color:white;
+}
